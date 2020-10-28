@@ -1,0 +1,22 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "The ast parser for typescript files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanketghanmare/Parser.git"
+  },
+  "author": "Sanket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanketghanmare/Parser/issues"
+  },
+  "homepage": "https://github.com/sanketghanmare/Parser#readme",
+  "dependencies": {
+    "typescript-parser": "^2.6.1"
+  }
+}
